@@ -1,0 +1,36 @@
+[submodule "app/modules/iterations"]
+	path = app/modules/iterations
+	url = https://github.com/egem/BasicModuleTemplateCPlusPlus.git
+[submodule "app/modules/GoogleTest"]
+	path = app/modules/GoogleTest
+	url = https://github.com/egem/GoogleTestModule.git
+[submodule "app/modules/arrays"]
+	path = app/modules/arrays
+	url = https://github.com/egem/BasicModuleTemplateCPlusPlus.git
+[submodule "app/modules/oddOccurrencesInArray"]
+	path = app/modules/oddOccurrencesInArray
+	url = https://github.com/egem/BasicModuleTemplateCPlusPlus.git
+[submodule "app/modules/FrogJmp"]
+	path = app/modules/FrogJmp
+	url = https://github.com/egem/BasicModuleTemplateCPlusPlus.git
+[submodule "app/modules/PermMissingElem"]
+	path = app/modules/PermMissingElem
+	url = https://github.com/egem/BasicModuleTemplateCPlusPlus.git
+[submodule "app/modules/TapeEquilibrium"]
+	path = app/modules/TapeEquilibrium
+	url = https://github.com/egem/BasicModuleTemplateCPlusPlus.git
+[submodule "app/modules/FrogRiverOne"]
+	path = app/modules/FrogRiverOne
+	url = https://github.com/egem/BasicModuleTemplateCPlusPlus.git
+[submodule "app/modules/MaxCounters"]
+	path = app/modules/MaxCounters
+	url = https://github.com/egem/BasicModuleTemplateCPlusPlus.git
+[submodule "app/modules/MissingIntegers"]
+	path = app/modules/MissingIntegers
+	url = https://github.com/egem/BasicModuleTemplateCPlusPlus.git
+[submodule "app/modules/MissingInteger"]
+	path = app/modules/MissingInteger
+	url = https://github.com/egem/BasicModuleTemplateCPlusPlus.git
+[submodule "app/modules/PermCheck"]
+	path = app/modules/PermCheck
+	url = https://github.com/egem/BasicModuleTemplateCPlusPlus.git
