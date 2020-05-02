@@ -1,2 +1,2 @@
-AddTest(FrogJmp.cpp)
+AddAllSubdirs()
 
