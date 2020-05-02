@@ -14,4 +14,4 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: build
-      run: mkdir -p build && cd build && rm -rf * && cmake .. && make
+      run: git submodule update --init --recursive && mkdir -p build && cd build && rm -rf * && cmake .. && make
