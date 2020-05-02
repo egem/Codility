@@ -1,0 +1,1 @@
+cmd='/Applications/CMake.app/Contents/bin/cmake;-DCMAKE_INSTALL_PREFIX=/Users/egemahlec/Documents/code/own/c++/codility/build/modules/GoogleTest;-GUnix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'
