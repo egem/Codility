@@ -1,0 +1,3 @@
+[submodule "app/modules/GoogleTest"]
+	path = app/modules/GoogleTest
+	url = https://github.com/egem/GoogleTestModule.git
