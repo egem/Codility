@@ -1,1 +1,2 @@
 git submodule add --force https://github.com/egem/BasicModuleTemplateCPlusPlus.git app/modules/$1
+git rm --cached app/modules/$1

@@ -9,6 +9,8 @@
 /Users/egemahlec/Documents/code/own/c++/codility/app/modules/PermCheck/PermCheck.cpp
 gtest/gtest.h
 /Users/egemahlec/Documents/code/own/c++/codility/app/modules/PermCheck/gtest/gtest.h
+vector
+-
 
 modules/GoogleTest/include/gtest/gtest-death-test.h
 gtest/internal/gtest-death-test-internal.h
