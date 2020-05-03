@@ -1,0 +1,2 @@
+AddTest(CountDiv.cpp)
+

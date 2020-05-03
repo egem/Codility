@@ -1,0 +1,2 @@
+AddTest(GenomicRangeQuery.cpp)
+
