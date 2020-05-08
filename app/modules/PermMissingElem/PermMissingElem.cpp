@@ -69,7 +69,7 @@ int solution(vector<int> &A) {
         tmp[elem-1] = true;
     }
 
-    for(int i = 0; i < tmp.size(); ++i)
+    for(size_t i = 0; i < tmp.size(); ++i)
     {
         if(!tmp[i])
         {

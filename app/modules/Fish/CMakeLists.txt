@@ -1,0 +1,2 @@
+AddTest(Fish.cpp)
+

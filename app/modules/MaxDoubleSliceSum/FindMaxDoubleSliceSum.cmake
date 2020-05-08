@@ -1,0 +1,5 @@
+set(BasicModule_FOUND false)
+set(BasicModule_LIBRARY_NAME )
+set(BasicModule_INCLUDE_DIRS )
+set(BasicModule_LIBRARY_PATH )
+set(BasicModule_LIBRARIES    )

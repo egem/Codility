@@ -71,7 +71,7 @@ int solution(vector<int> &A) {
 
     for(auto elem: A)
     {
-        if(elem > A.size())
+        if(elem > static_cast<int>(A.size()))
             return 0;
 
         if(!tmp[elem - 1])

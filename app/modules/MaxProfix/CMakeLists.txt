@@ -1,0 +1,2 @@
+AddTest(MaxProfix.cpp)
+

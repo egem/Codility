@@ -1,0 +1,2 @@
+AddTest(NumberOfDiscIntersections.cpp)
+
