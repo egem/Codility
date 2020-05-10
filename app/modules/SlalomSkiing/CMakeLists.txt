@@ -1,0 +1,2 @@
+AddTest(SlalomSkiing.cpp)
+

@@ -1,0 +1,2 @@
+AddTest(CountTriangles.cpp)
+

@@ -72,7 +72,8 @@ TEST(add, test9)
 }
 
 /* This solution is taken by https://sites.google.com/site/spaceofjameschen/home/codibility/6-3-maxproductofthree */
-int solution(vector<int> &A) {
+int solution(vector<int> &A)
+{
     sort(A.begin(), A.end());
 
     int s = int(A.size());

@@ -1,2 +1,2 @@
-AddTest(BasicModuleTest.cpp)
+AddTest(Flags.cpp)
 

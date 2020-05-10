@@ -86,6 +86,26 @@ TEST(add, test17)
     ASSERT_EQ(20, solution2(11, 345, 17));
 }
 
+TEST(add, test18)
+{
+    ASSERT_EQ(1, solution2(0, 0, 11));
+}
+
+TEST(add, test19)
+{
+    ASSERT_EQ(1, solution2(0, 10, 11));
+}
+
+TEST(add, test20)
+{
+    ASSERT_EQ(2, solution2(0, 11, 11));
+}
+
+TEST(add, test21)
+{
+    ASSERT_EQ(1, solution2(1, 11, 11));
+}
+
 int solution(int A, int B, int K) {
     int diff = B - A;
 
@@ -101,8 +121,11 @@ int solution(int A, int B, int K) {
 
 int solution2(int A, int B, int K)
 {
-    int before = (A - 1) / K;
+    int before = A == 0 ? 0 : (A - 1) / K;
     int after = B / K;
+
+    if(A == 0)
+        ++after;
 
     return after - before;
 }

@@ -71,6 +71,9 @@ int solution(vector<int> &A)
     return cnt;
 }
 
+// % 81
+// Test [1, 2147483647, 0] got 0, expected 2
+// Complexity is not good.
 int solution2(vector<int> &A)
 {
     multimap<int, int> leftRight;
